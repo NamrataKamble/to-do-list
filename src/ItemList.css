@@ -1,0 +1,42 @@
+.item-list {
+
+    justify-content: center;
+}
+
+.list {
+    display: block;
+    height: 30px;
+    width: 250px;
+    padding: 4px;
+    list-style-type: none;
+
+
+}
+
+.item-list {
+    width: 100%;
+    height: 100%;
+
+
+    justify-content: center;
+    text-align: justify;
+
+
+}
+
+h2 {
+
+    padding-top: 50px;
+
+}
+
+ul {
+
+    list-style-type: none;
+    padding-left: -35em;
+}
+
+li {
+    justify-content: left;
+
+}
